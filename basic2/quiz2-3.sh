@@ -1,6 +1,4 @@
 #!/bin/sh
 cd /etc
 pwd
-ls -a
-
- 
+ls 

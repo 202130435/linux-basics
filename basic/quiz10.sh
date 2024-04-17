@@ -1,4 +1,4 @@
 #!/bin/sh
-ls -a /home/ubuntu/Documents/linux-basics/basic/
+ls
 sleep 3
 clear
