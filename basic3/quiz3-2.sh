@@ -1,8 +1,8 @@
 #!/bin/sh
-if [ -e "quiz2-1.sh" ]
+if [ -d "quiz3-1.sh" ]
 then
-    echo "파일이 존재합니다."
+    echo "이것은 디렉토리입니다"
 else
-    echo "파일이 존재하지 않습니다."
+    echo "디렉토리가 아닙니다."
 fi
 exit 0
